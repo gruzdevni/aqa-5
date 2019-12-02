@@ -9,4 +9,5 @@
 1. Clone or download repository
 2. Open with IntelliJ IDEA or other IDE.
 
-# Allure report was plugged into this project.
+# Allure report was finally plugged into this project.
+![](https://github.com/gruzdevni/aqa-5/blob/master/Allure_report_screenshot.PNG)
