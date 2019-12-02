@@ -8,3 +8,5 @@
 ### To install it:
 1. Clone or download repository
 2. Open with IntelliJ IDEA or other IDE.
+
+# Allure report was plugged into this project.
